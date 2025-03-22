@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'UrduKhushKhati';
+  src: url("../fonts/UrduKhushKhati.woff2"); 
+       url("../fonts/UrduKhushKhati.woff") format("woff"), 
+       url("../fonts/UrduKhushKhati.ttf") format("truetype"), 
+  unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
+}
